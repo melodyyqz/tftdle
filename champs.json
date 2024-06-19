@@ -1,0 +1,422 @@
+[
+  {
+    "champion": "Ahri",
+    "cost": 1,
+    "origin": ["Fated"],
+    "class": ["Arcanist"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Caitlyn",
+    "cost": 1,
+    "origin": ["Ghostly"],
+    "class": ["Sniper"],
+    "type": "Attack Caster"
+  },
+  {
+    "champion": "Cho'Gath",
+    "cost": 1,
+    "origin": ["Mythic"],
+    "class": ["Behemoth"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Darius",
+    "cost": 1,
+    "origin": ["Umbral"],
+    "class": ["Duelist"],
+    "type": "Magic Fighter"
+  },
+  {
+    "champion": "Garen",
+    "cost": 1,
+    "origin": ["Storyweaver"],
+    "class": ["Warden"],
+    "type": "Attack Tank"
+  },
+  {
+    "champion": "Jax",
+    "cost": 1,
+    "origin": ["Inkshadow"],
+    "class": ["Warden"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Kha'Zix",
+    "cost": 1,
+    "origin": ["Heavenly"],
+    "class": ["Reaper"],
+    "type": "Attack Reaper"
+  },
+  {
+    "champion": "Kobuko",
+    "cost": 1,
+    "origin": ["Fortune"],
+    "class": ["Bruiser"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Kog'Maw",
+    "cost": 1,
+    "origin": ["Mythic"],
+    "class": ["Sniper", "Invoker"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Malphite",
+    "cost": 1,
+    "origin": ["Heavenly"],
+    "class": ["Behemoth"],
+    "type": "Attack Tank"
+  },
+  {
+    "champion": "Rek'Sai",
+    "cost": 1,
+    "origin": ["Dryad"],
+    "class": ["Bruiser"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Sivir",
+    "cost": 1,
+    "origin": ["Storyweaver"],
+    "class": ["Trickshot"],
+    "type": "Attack Carry"
+  },
+  {
+    "champion": "Yasuo",
+    "cost": 1,
+    "origin": ["Fated"],
+    "class": ["Duelist"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Aatrox",
+    "cost": 2,
+    "origin": ["Inkshadow", "Ghostly"],
+    "class": ["Bruiser"],
+    "type": "Magic Fighter"
+  },
+  {
+    "champion": "Gnar",
+    "cost": 2,
+    "origin": ["Dryad"],
+    "class": ["Warden"],
+    "type": "Attack Fighter"
+  },
+  {
+    "champion": "Janna",
+    "cost": 2,
+    "origin": ["Dragonlord"],
+    "class": ["Invoker"],
+    "type": "Magic Carry"
+  },
+  {
+    "champion": "Kindred",
+    "cost": 2,
+    "origin": ["Dryad", "Fated"],
+    "class": ["Reaper"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Lux",
+    "cost": 2,
+    "origin": ["Porcelain"],
+    "class": ["Arcanist"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Neeko",
+    "cost": 2,
+    "origin": ["Mythic", "Heavenly"],
+    "class": ["Arcanist"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Qiyana",
+    "cost": 2,
+    "origin": ["Heavenly"],
+    "class": ["Duelist"],
+    "type": "Attack Reaper"
+  },
+  {
+    "champion": "Riven",
+    "cost": 2,
+    "origin": ["Storyweaver"],
+    "class": ["Altruist", "Bruiser"],
+    "type": "Attack Fighter"
+  },
+  {
+    "champion": "Senna",
+    "cost": 2,
+    "origin": ["Inkshadow"],
+    "class": ["Sniper"],
+    "type": "Attack Carry"
+  },
+  {
+    "champion": "Shen",
+    "cost": 2,
+    "origin": ["Ghostly"],
+    "class": ["Behemoth"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Teemo",
+    "cost": 2,
+    "origin": ["Fortune"],
+    "class": ["Trickshot"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Yorick",
+    "cost": 2,
+    "origin": ["Umbral"],
+    "class": ["Behemoth"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Zyra",
+    "cost": 2,
+    "origin": ["Storyweaver"],
+    "class": ["Sage"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Alune",
+    "cost": 3,
+    "origin": ["Umbral"],
+    "class": ["Invoker"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Amumu",
+    "cost": 3,
+    "origin": ["Porcelain"],
+    "class": ["Warden"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Aphelios",
+    "cost": 3,
+    "origin": ["Fated"],
+    "class": ["Sniper"],
+    "type": "Attack Carry"
+  },
+  {
+    "champion": "Bard",
+    "cost": 3,
+    "origin": ["Mythic"],
+    "class": ["Trickshot"],
+    "type": "Attack Carry"
+  },
+  {
+    "champion": "Diana",
+    "cost": 3,
+    "origin": ["Dragonlord"],
+    "class": ["Sage"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Illaoi",
+    "cost": 3,
+    "origin": ["Ghostly"],
+    "class": ["Arcanist", "Warden"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Soraka",
+    "cost": 3,
+    "origin": ["Heavenly"],
+    "class": ["Altruist"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Tahm Kench",
+    "cost": 3,
+    "origin": ["Mythic"],
+    "class": ["Bruiser"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Thresh",
+    "cost": 3,
+    "origin": ["Fated"],
+    "class": ["Behemoth"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Tristana",
+    "cost": 3,
+    "origin": ["Fortune"],
+    "class": ["Duelist"],
+    "type": "Attack Reaper"
+  },
+  {
+    "champion": "Volibear",
+    "cost": 3,
+    "origin": ["Inkshadow"],
+    "class": ["Duelist"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Yone",
+    "cost": 3,
+    "origin": ["Umbral"],
+    "class": ["Reaper"],
+    "type": "Attack Fighter"
+  },
+  {
+    "champion": "Zoe",
+    "cost": 3,
+    "origin": ["Storyweaver", "Fortune"],
+    "class": ["Arcanist"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Annie",
+    "cost": 4,
+    "origin": ["Fortune"],
+    "class": ["Invoker"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Ashe",
+    "cost": 4,
+    "origin": ["Porcelain"],
+    "class": ["Sniper"],
+    "type": "Attack Carry"
+  },
+  {
+    "champion": "Galio",
+    "cost": 4,
+    "origin": ["Storyweaver"],
+    "class": ["Bruiser"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Kai'Sa",
+    "cost": 4,
+    "origin": ["Inkshadow"],
+    "class": ["Trickshot"],
+    "type": "Attack Caster"
+  },
+  {
+    "champion": "Kayn",
+    "cost": 4,
+    "origin": ["Ghostly"],
+    "class": ["Reaper"],
+    "type": "Attack Reaper"
+  },
+  {
+    "champion": "Lee Sin",
+    "cost": 4,
+    "origin": ["Dragonlord"],
+    "class": ["Duelist"],
+    "type": "Attack Fighter"
+  },
+  {
+    "champion": "Lillia",
+    "cost": 4,
+    "origin": ["Mythic"],
+    "class": ["Invoker"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Morgana",
+    "cost": 4,
+    "origin": ["Ghostly"],
+    "class": ["Sage"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Nautilus",
+    "cost": 4,
+    "origin": ["Mythic"],
+    "class": ["Warden"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Ornn",
+    "cost": 4,
+    "origin": ["Dryad"],
+    "class": ["Behemoth"],
+    "type": "Magic Tank"
+  },
+  {
+    "champion": "Sylas",
+    "cost": 4,
+    "origin": ["Umbral"],
+    "class": ["Bruiser"],
+    "type": "Magic Fighter"
+  },
+  {
+    "champion": "Syndra",
+    "cost": 4,
+    "origin": ["Fated"],
+    "class": ["Arcanist"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Azir",
+    "cost": 5,
+    "origin": ["Dryad"],
+    "class": ["Invoker"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Hwei",
+    "cost": 5,
+    "origin": ["Mythic"],
+    "class": ["Artist"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Irelia",
+    "cost": 5,
+    "origin": ["Storyweaver"],
+    "class": ["Duelist"],
+    "type": "Attack Carry"
+  },
+  {
+    "champion": "Lissandra",
+    "cost": 5,
+    "origin": ["Porcelain"],
+    "class": ["Arcanist"],
+    "type": "Magic Caster"
+  },
+  {
+    "champion": "Rakan",
+    "cost": 5,
+    "origin": ["Dragonlord"],
+    "class": ["Altruist", "Lovers"],
+    "type": "Magic Reaper"
+  },
+  {
+    "champion": "Sett",
+    "cost": 5,
+    "origin": ["Fated", "Umbral"],
+    "class": ["Warden"],
+    "type": "Attack Fighter"
+  },
+  {
+    "champion": "Udyr",
+    "cost": 5,
+    "origin": ["Inkshadow"],
+    "class": ["Behemoth", "Spirit Walker"],
+    "type": "Magic Fighter"
+  },
+  {
+    "champion": "Wukong",
+    "cost": 5,
+    "origin": ["Heavenly"],
+    "class": ["Great", "Sage"],
+    "type": "Attack Fighter"
+  },
+  {
+    "champion": "Xayah",
+    "cost": 5,
+    "origin": ["Dragonlord"],
+    "class": ["Lovers", "Trickshot"],
+    "type": "Attack Carry"
+  }
+]
